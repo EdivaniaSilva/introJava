@@ -9,8 +9,10 @@ public class Medidas {
 
     // 3.2 - Métodos e Funções
     public static void main (String[] args){
+
+        //condicional = verificar uma condição - Fazer uma pergunta para uma pessoa, um hardware ou software
         calcularAreaModoCompacto();
-        calcularAreaModoExtenso();git
+        calcularAreaModoExtenso();
     }
 
     public static void calcularAreaModoExtenso(){
